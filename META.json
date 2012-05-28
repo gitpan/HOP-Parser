@@ -42,10 +42,10 @@
          }
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "homepage" : "http://hop.perl.plover.com/",
       "x_MailingList" : "http://hop.perl.plover.com/#mlist"
    },
-   "version" : "0.02_05"
+   "version" : "0.03"
 }
